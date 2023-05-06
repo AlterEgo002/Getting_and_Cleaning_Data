@@ -37,6 +37,5 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
 **Transformations**
 
 The zip file containing the source data is located at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
-The following transformations were applied to the source data:
 The training and test sets were merged to create one data set.
 The measurements on the mean and standard deviation (i.e. signals containing the strings mean and std) were extracted for each measurement, and the others were discarded.
